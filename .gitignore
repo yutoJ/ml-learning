@@ -6,3 +6,4 @@ models/*
 *.pkl
 *.npy
 !.gitkeep
+memo.txt
